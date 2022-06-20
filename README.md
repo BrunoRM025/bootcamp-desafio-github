@@ -1,2 +1,2 @@
-# bootcamp-desafio-github
-Desafio de projeto github para bootcamp 
+# Desafio de Projeto para Bootcamp
+Desafio de projeto de Git/Github
