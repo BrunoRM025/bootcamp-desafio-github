@@ -1,0 +1,5 @@
+git add . = Irá adicionar a atualização do projeto no sistema local.
+
+ls = lista os documentos no terminal
+
+cd = Para navegar por um diretório.
