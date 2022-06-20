@@ -1,0 +1,14 @@
+Comandos:
+
+ls = lista os documentos no terminal
+
+cd = Para navegar por um diretório(Pasta).
+
+git add . = Irá adicionar a atualização do projeto no sistema local.
+
+git status = Para verificar o status do Git, se há pendências de arquivos não commitados e etc.
+
+git commit -m"(Mensagem para descrever as mudanças realizadas no repositório)" = Comando para commitar as atualizações
+feitas no repositório
+
+git push origin main = Comando para adicionar as mudanças feitas no sistema local para o GitHub.
